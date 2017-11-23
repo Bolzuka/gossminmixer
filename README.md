@@ -13,4 +13,4 @@ https://kodaktor.ru/web21112017_7053b
 
 ⬇︎
 
-![alt scheme](gossminmixer.png "Должно выглядеть примерно так")
+![alt scheme](gossminmixer1.png "Должно выглядеть примерно так")
